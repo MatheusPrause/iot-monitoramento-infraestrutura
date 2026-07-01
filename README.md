@@ -29,7 +29,7 @@ Para criar um projeto no Wokwi:
 5. Dê "Play" na simulação para iniciar a transmissão de dados.
 
 ## Demonstração Prática
-[lique aqui para assistir ao vídeo de demonstração do sistema em funcionamento](https://youtu.be/FHuJA_Jn4qE?feature=shared)
+[Clique aqui para assistir ao vídeo de demonstração do sistema em funcionamento](https://youtu.be/FHuJA_Jn4qE?feature=shared)
 
 ---
 *Projeto desenvolvido por Matheus Maximowitz Prause como Trabalho Prático para a disciplina de Internet das Coisas (IoT).*
