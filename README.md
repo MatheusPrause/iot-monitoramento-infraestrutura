@@ -20,6 +20,8 @@ O objetivo principal é prevenir o superaquecimento e a degradação silenciosa 
 
 ## Como Executar a Simulação (Wokwi)
 Caso queira testar o código via navegador:
+  Acesse o projeto [clicando aqui](https://wokwi.com/projects/468350010694016001).
+Para criar um projeto no Wokwi:
 1. Acesse o [Wokwi](https://wokwi.com/).
 2. Crie um novo projeto para o **ESP32**.
 3. Copie e cole o código-fonte disponibilizado neste repositório.
